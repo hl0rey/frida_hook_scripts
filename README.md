@@ -1,0 +1,3 @@
+frida_env_inspector.js  检测当前app基本情况，使用了哪些技术或者保护
+frida_hook_network_crypto.js  hook所有加解密操作和网络请求
+frida_universal_network_hook.js hook所有网络请求
